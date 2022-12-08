@@ -39,7 +39,7 @@ specifiers:
   react-intersection-observer: 9.4.0
   react-lazyload: 3.2.0
   react-markdown: 8.0.3
-  react-message-popup: 1.0.0-alpha.2
+  react-message-popup: 1.0.0
   react-syntax-highlighter: 15.5.0
   react-use: 17.4.0
   rehype-katex: 6.0.2
@@ -69,7 +69,7 @@ dependencies:
   react-intersection-observer: 9.4.0_react@18.2.0
   react-lazyload: 3.2.0_biqbaboplfbrettd7655fr4n2y
   react-markdown: 8.0.3_7v64pk2mkrohwh22gx7lrz5ive
-  react-message-popup: 1.0.0-alpha.2_biqbaboplfbrettd7655fr4n2y
+  react-message-popup: 1.0.0_biqbaboplfbrettd7655fr4n2y
   react-syntax-highlighter: 15.5.0_react@18.2.0
   react-use: 17.4.0_biqbaboplfbrettd7655fr4n2y
   rehype-katex: 6.0.2
@@ -5492,9 +5492,8 @@ packages:
       - supports-color
     dev: false
 
-  /react-message-popup/1.0.0-alpha.2_biqbaboplfbrettd7655fr4n2y:
-    resolution: {integrity: sha512-YQiYMTu+qnlmHHDgTogg8PyDGd6jBxvcOBnioRzxrzOBkLr8yKhbXee7kH22DXghlXCbBZBHNvOdCEUMrvmE7Q==}
-    engines: {pnpm: '>=6'}
+  /react-message-popup/1.0.0_biqbaboplfbrettd7655fr4n2y:
+    resolution: {integrity: sha512-fDtLQp29u6nhxtRTfc3f/DBOSLDt8yuAROylv3OQcuStFuKqJnDgmFaFPzkgYf+64x8SsiC7ADQpfZJx6dK8/g==}
     peerDependencies:
       react: ^18.0.0
       react-dom: ^18.0.0
