@@ -48,7 +48,7 @@ specifiers:
   rimraf: 3.0.2
   tailwindcss: 3.1.8
   typescript: 4.8.2
-  valtio: 1.7.0
+  valtio: 1.7.6
 
 dependencies:
   '@icon-park/react': 1.4.2_biqbaboplfbrettd7655fr4n2y
@@ -75,7 +75,7 @@ dependencies:
   rehype-katex: 6.0.2
   rehype-raw: 6.1.1
   remark-gfm: 3.0.1
-  valtio: 1.7.0_react@18.2.0
+  valtio: 1.7.6_react@18.2.0
 
 devDependencies:
   '@innei-util/eslint-config-react-ts': 0.8.2_nbcbbd7lfrdtsoifdu7ts5ch5u
@@ -6547,8 +6547,8 @@ packages:
       sade: 1.8.1
     dev: false
 
-  /valtio/1.7.0_react@18.2.0:
-    resolution: {integrity: sha512-3Tnix66EERwMcrl1rfB3ylcewOcL5L/GiPmC3FlVNreQzqf2jufEeqlNmgnLgSGchkEmH3WYVtS+x6Qw4r+yzQ==}
+  /valtio/1.7.6_react@18.2.0:
+    resolution: {integrity: sha512-zsGrCCYOIpy8egQxftduFyJusF/BMu3CganhHKUOE/I6t6V6yA1MDfZZkrYoWYCGkC3rSBYcIHEEsoYQM9lV2w==}
     engines: {node: '>=12.7.0'}
     peerDependencies:
       '@babel/helper-module-imports': '>=7.12'
